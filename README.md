@@ -1,4 +1,4 @@
-# [The Hitchhiker's AI Guide To Drug Discovery](www.hitchhikersai.org)
+# [The Hitchhiker's AI Guide To Drug Discovery](https://www.hitchhikersai.org/)
 
 ## Our Mission
 
@@ -17,5 +17,5 @@ Navigate to the notebooks folder. All the sample data you need is in the data fo
 
 ## Get in touch
 
-Did you like/hate what you see? We want to hear your feedback. Do you want to contribute? Come join us 
+Did you like/hate what you see? We want to hear your feedback. Do you want to contribute? [Join us!]((https://www.hitchhikersai.org/)
 ​
