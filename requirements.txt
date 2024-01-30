@@ -1,0 +1,8 @@
+pandas
+pyarrow
+numpy
+jupyterlab
+plotly
+scikit-learn
+statsmodels
+shap
