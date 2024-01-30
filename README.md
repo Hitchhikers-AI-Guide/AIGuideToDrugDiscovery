@@ -17,5 +17,5 @@ Navigate to the notebooks folder. All the sample data you need is in the data fo
 
 ## Get in touch
 
-Did you like/hate what you see? We want to hear your feedback. Do you want to contribute? [Join us!]((https://www.hitchhikersai.org/)
+Did you like/hate what you see? We want to hear your feedback. Do you want to contribute? [Join us!](https://www.hitchhikersai.org/)
 ​
