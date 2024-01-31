@@ -13,7 +13,22 @@ This repo will be eternally a work in progress. We want to create simple and acc
 
 ## Getting started
 
-Navigate to the notebooks folder. All the sample data you need is in the data folder, and we'll provide links or instructions on how to get larger datasets. 
+1. Clone the repo
+```
+git clone git@github.com:Hitchhikers-AI-Guide/AIGuideToDrugDiscovery.git
+```
+2. Step into the folder and create your python virtual environment
+```
+python3 -m venv .venv
+```
+3. Activate and install requirements
+```
+source .venv/bin/activate
+pip install -r requirements.txt
+``` 
+
+If it's your first encoutner with python and notebooks - use VSCode. Navigate to the notebooks folder. All the sample data you need is in the data folder, and we'll provide links or instructions on how to get larger datasets. 
+ 
 
 ## Get in touch
 
