@@ -6,3 +6,5 @@ plotly
 scikit-learn
 statsmodels
 shap
+rdkit
+dtreeviz
